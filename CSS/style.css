@@ -81,6 +81,43 @@
 #necklaces img {
                 border: solid 8px rgb(204, 106, 238);}
 
+#button {
+         font-family: 'Nunito', sans-serif;}
+
+#name {
+       font-family: 'Nunito', sans-serif;}
+
+#e-mail {
+         font-family: 'Nunito', sans-serif;}
+
+#basic {
+        font-family: 'Nunito', sans-serif;}
+
+#comments {
+           font-family: 'Nunito', sans-serif;}
+
+#your-input {
+             font-family: 'Nunito', sans-serif;}
+
+#preference {
+              font-family: 'Nunito', sans-serif;}
+
+#select {
+         font-family: 'Nunito', sans-serif;}
+
+#purchase {
+           font-family: 'Nunito', sans-serif;}
+
+fieldset {
+          border: 1px solid rgb(0, 0, 0);
+          border-radius: 10px;
+          background-color: rgb(190, 190, 190);
+          padding: 20px}
+legend {
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 10px;
+        background-color: rgb(204, 106, 238);}
+
 h3 {
     text-align: center;
     font-family: 'Salsa', cursive;

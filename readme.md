@@ -14,13 +14,21 @@ Wire Frame for Home Page:
 ![Wire Frame](./imgs/Wireframe.jpg)
 
 ## 2. Summary
+* I decided to make my final website about my jewelry design because it is one of my passions.
 * I created the files and folders.
-* I took pictures of all my jewelry for the site and logo and edited it.
+* I took pictures of all my jewelry for the site and logo and edited them.
 * I created my navigation bar and header for the site first.
 * Then I worked on my contact page and gallery.
 * I ended up using the parallax scrolling technique on my `about` page instead of the `gallery`.
+* I created the form for the contact page by using the techniques we learned during the class.
 
 ## 3. Resources
 * [Beads](https://beadmuseum.wordpress.com/)
 * [Beads2](http://www.powwowsupply.com/100-Seed-Beads-Opaque-Navy-Blue_p_3192.html)
 * [Beads3](http://www.powwowsupply.com/100-Seed-Beads-Silver-Lined-Dark-Red_p_3249.html)
+
+## 4. Trials and Triumphs
+* I struggled getting parallax scrolling to work again, but I figured it out by tweaking my code from the parallax assignment.
+* It took me a whole day to get my gallery set up correctly. I had so many pictures it took a lot longer than expected.
+* I am still struggling with using responsive web design throughout the whole site. I did incorporate it on the `about` page.
+* I learned how to style the forms a little bit more with fieldset backgrounds and rounded boxes.
