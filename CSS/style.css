@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Nunito|Raleway|Salsa');
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Nunito|Salsa');
 
 #site-header {
               background-color: rgb(204, 106, 238);
@@ -22,6 +22,9 @@
           width: 100%;
           margin: 0 auto;
           overflow: auto;}
+
+#add-info {
+           line-height: 1.6em;}
 
 #side-menu {
             margin: 0;
@@ -49,7 +52,6 @@
            text-align: center;
            font-family: 'Nunito', sans-serif;
            color: rgb(255, 255, 255);}
-
 
 #email {
         text-align: center;}
