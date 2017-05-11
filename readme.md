@@ -24,12 +24,15 @@ Wire Frame for Home Page:
 * I decided to use quotes on my index page because I had all this blank space and felt like I already incorporated the important things on the other pages.
 
 HTML Code example of navigation bar and header:
+
 ![HTML Code](./imgs/CodeExample.PNG)
 
 CSS Code example of how I styled quotes on index page:
+
 ![CSS Code](./imgs/CodeExample3.PNG)
 
 CSS Code example of how I styled the form on contact page:
+
 ![CSS Code2](./imgs/CodeExample2.PNG)
 
 ## 3. Resources
