@@ -124,43 +124,75 @@
 
 #quote1 {
          float: left;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote2 {
          float: right;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote3 {
          float: left;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote4 {
          float: right;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote5 {
          float: left;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote6 {
          float: right;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote7 {
          float: left;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 #quote8 {
          float: right;
-         padding: 5px;
-         width: 48%;}
+         padding: 8px;
+         width: 47%;
+         border: 3px solid rgb(0, 0, 0);
+         background-color: rgb(190, 190, 190);
+         border-radius: 10px;
+         margin: 8px;}
 
 fieldset {
           border: 1px solid rgb(0, 0, 0);
