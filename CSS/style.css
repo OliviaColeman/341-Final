@@ -45,6 +45,16 @@
        background-color: rgb(255, 148, 5);
        overflow: scroll;}
 
+#index-main {
+             margin: 0;
+             padding: 0;
+             float: right;
+             width: 100%;
+             max-height: 420px;
+             height: 100%;
+             background-color: rgb(255, 148, 5);
+             overflow: scroll;}
+
 #map {
       text-align: center;}
 
@@ -107,6 +117,50 @@
 
 #purchase {
            font-family: 'Nunito', sans-serif;}
+
+#index-main {
+             font-family: 'Salsa', cursive;
+             font-size: 24px;}
+
+#quote1 {
+         float: left;
+         padding: 5px;
+         width: 48%;}
+
+#quote2 {
+         float: right;
+         padding: 5px;
+         width: 48%;}
+
+#quote3 {
+         float: left;
+         padding: 5px;
+         width: 48%;}
+
+#quote4 {
+         float: right;
+         padding: 5px;
+         width: 48%;}
+
+#quote5 {
+         float: left;
+         padding: 5px;
+         width: 48%;}
+
+#quote6 {
+         float: right;
+         padding: 5px;
+         width: 48%;}
+
+#quote7 {
+         float: left;
+         padding: 5px;
+         width: 48%;}
+
+#quote8 {
+         float: right;
+         padding: 5px;
+         width: 48%;}
 
 fieldset {
           border: 1px solid rgb(0, 0, 0);

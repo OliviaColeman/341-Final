@@ -32,3 +32,4 @@ Wire Frame for Home Page:
 * It took me a whole day to get my gallery set up correctly. I had so many pictures it took a lot longer than expected.
 * I am still struggling with using responsive web design throughout the whole site. I did incorporate it on the `about` page.
 * I learned how to style the forms a little bit more with fieldset backgrounds and rounded boxes.
+* I noticed that sometimes it takes a little bit to load the pictures.
